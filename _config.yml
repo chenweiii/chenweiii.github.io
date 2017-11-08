@@ -16,7 +16,9 @@
 title: Shih-Chen's Blog
 email: R06922135@csie.ntu.edu.tw
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a graduate student major in Computer Science from Nation Taiwan University.
+  I'm a graduate student 
+  Major in Computer Science 
+  From Nation Taiwan University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: we12hen
